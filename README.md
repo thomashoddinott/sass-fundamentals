@@ -1,3 +1,5 @@
+[my course notes](./notes.md)
+
 <p align='center'>
   <a href="https://mike.works" target='_blank'>
     <img height=40 src='https://assets.mike.works/img/login_logo-33a9e523d451fb0d902f73d5452d4a0b.png' />
